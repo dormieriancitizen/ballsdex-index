@@ -16,4 +16,5 @@ export interface Cog {
   license?: string | { text: string };
   authors?: (string | CogAuthor)[];
   dependencies?: string[];
+  urls?: Record<string, string>;
 }
