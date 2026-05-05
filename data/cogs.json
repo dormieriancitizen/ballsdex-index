@@ -1,7 +1,7 @@
 {
   "approved": [
   ],
-  "unapproved": 
+  "unapproved": [
     {
       "id": "collector",
       "repo": "https://github.com/flaree/ballsdex-collector",
